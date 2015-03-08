@@ -86,7 +86,7 @@ Kenneth
 
 Otis
 - http://blog.otisready.com/
-- RSS訂閱從缺，粉絲傷心
+- http://feeds.feedburner.com/otistw
 
 Vinta
 - http://vinta.ws/code/
