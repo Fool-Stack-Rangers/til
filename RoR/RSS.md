@@ -67,6 +67,10 @@ Matt
 Annie
 - http://blog.annideas.com/
 - http://feeds.feedburner.com/Annideas
+ 
+IMHO, 黑貘來說
+- http://gene.speaking.tw/
+- http://feeds.feedburner.com/genehong
 
 Hsin-Hao Tang
 - http://cythilya.blogspot.tw/
@@ -127,3 +131,23 @@ Eddie Li (ADZ)
 赫謙
 - http://hechien.logdown.com/
 - http://hechien.logdown.com/posts.atom
+
+嫁給RD的 UI Designer
+- http://blog.akanelee.me/
+- http://blog.akanelee.me/posts.atom
+
+MUKI space
+- http://blog.mukispace.com/
+- http://blog.mukispace.com/feed/
+
+Mu-An
+- http://muan.co/
+- http://muan.co/feed.xml
+
+白超熠
+- http://minipai.tumblr.com/
+- http://minipai.tumblr.com/rss
+
+陳昱圻(Tom Chen)
+- https://medium.com/@tomchentw/
+- https://medium.com/feed/@tomchentw/
