@@ -167,3 +167,19 @@ Andyyou
 原型駭客
 - http://prototype-hacker.com/blog/
 - http://prototype-hacker.com/blog/feed/
+
+Hannah Lin
+- http://www.hannahpun.com/blog/
+- http://www.hannahpun.com/blog/feed/
+
+Kim Wong
+- http://kimix.name/blog/
+- http://kimix.name/blog/feed/
+
+Manic's Talk
+- http://manic.pixnet.net/blog
+- http://feed.pixnet.net/blog/posts/rss/manic
+
+熊屋 | 技術小記
+- http://blog.kumaya.co/
+- http://blog.kumaya.co/atom.xml
