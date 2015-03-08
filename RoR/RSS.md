@@ -183,3 +183,7 @@ Manic's Talk
 熊屋 | 技術小記
 - http://blog.kumaya.co/
 - http://blog.kumaya.co/atom.xml
+
+vgod
+- http://blog.vgod.tw/
+- http://feeds.feedburner.com/vgod/blog
