@@ -8,6 +8,17 @@ iHower
 - http://blog.eddie.com.tw/
 - http://feeds.feedburner.com/aquarianboy
 
+慕凡
+- http://ryudo.tw/
+- http://ryudo.tw/atom.xml
+
+大兜
+- http://tonytonyjan.net/blog/
+
+shesee(徐曦)
+- http://carolhsu.github.io/
+- http://carolhsu.github.io/atom.xml
+
 Jimmy
 - http://gogojimmy.net/
 - http://feeds.feedburner.com/GoGoJimmy
@@ -55,6 +66,10 @@ Matt
 Annie
 - http://blog.annideas.com/
 - http://feeds.feedburner.com/Annideas
+
+Hsin-Hao Tang
+- http://cythilya.blogspot.tw/
+- http://cythilya.blogspot.com/feeds/posts/default
 
 小明
 - http://vinn.tw/
