@@ -159,3 +159,7 @@ Ly Cheng
 莊為任
 - http://www.kvzhuang.net/
 - http://www.kvzhuang.net/posts.atom
+
+Andyyou
+- http://andyyou.logdown.com/
+- http://andyyou.logdown.com/posts.atom
