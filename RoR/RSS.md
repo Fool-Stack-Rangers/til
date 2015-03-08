@@ -14,6 +14,7 @@ iHower
 
 大兜
 - http://tonytonyjan.net/blog/
+- http://tonytonyjan.net/feed.xml
 
 shesee(徐曦)
 - http://carolhsu.github.io/
@@ -75,6 +76,10 @@ Hsin-Hao Tang
 - http://vinn.tw/
 - RSS訂閱從缺，粉絲傷心
 
+Kenneth
+- http://blog.cyanglee.com/
+- http://feeds.feedburner.com/cyangleetech
+
 Otis
 - http://blog.otisready.com/
 - RSS訂閱從缺，粉絲傷心
@@ -94,3 +99,31 @@ Dylandy
 蒼時
 - http://blog.frost.tw/
 - http://feeds.feedburner.com/aotoki-blog
+
+Bruce
+- http://toyroom.bruceli.net/tw/
+- http://feeds.feedburner.com/bruce-toy-room-chinese
+
+小蟹
+- http://wildjcrt.pixnet.net/blog
+- http://feed.pixnet.net/blog/posts/rss20/wildjcrt
+
+布丁
+- http://iamhlb.com/
+- http://iamhlb.com/rss
+
+黃金俠
+- http://rubyist.marsz.tw/
+- http://rubyist.marsz.tw/atom.xml
+
+林士淵
+- http://blog.hellolucky.info/
+- http://feeds.feedburner.com/hellolucky
+
+Eddie Li (ADZ)
+- http://adz.cool/
+- http://adz.cool/posts.atom
+
+赫謙
+- http://hechien.logdown.com/
+- http://hechien.logdown.com/posts.atom
