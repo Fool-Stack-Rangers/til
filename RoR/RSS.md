@@ -151,3 +151,11 @@ Mu-An
 陳昱圻(Tom Chen)
 - https://medium.com/@tomchentw/
 - https://medium.com/feed/@tomchentw/
+
+Ly Cheng
+- http://yhsiang.logdown.com/
+- http://yhsiang.logdown.com/posts.atom
+
+莊為任
+- http://www.kvzhuang.net/
+- http://www.kvzhuang.net/posts.atom
