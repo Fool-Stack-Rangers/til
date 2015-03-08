@@ -78,3 +78,19 @@ Hsin-Hao Tang
 Otis
 - http://blog.otisready.com/
 - RSS訂閱從缺，粉絲傷心
+
+Vinta
+- http://vinta.ws/code/
+- http://vinta.ws/code/feed
+
+海總理
+- http://tzangms.com/
+- http://feeds.feedburner.com/tzangms
+
+Dylandy
+- http://dylandychat.blogspot.tw/
+- http://dylandychat.blogspot.com/feeds/posts/default
+
+蒼時
+- http://blog.frost.tw/
+- http://feeds.feedburner.com/aotoki-blog
