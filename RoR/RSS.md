@@ -163,3 +163,7 @@ Ly Cheng
 Andyyou
 - http://andyyou.logdown.com/
 - http://andyyou.logdown.com/posts.atom
+
+原型駭客
+- http://prototype-hacker.com/blog/
+- http://prototype-hacker.com/blog/feed/
