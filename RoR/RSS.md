@@ -195,3 +195,7 @@ jokercatz
 Ant Yi-Feng Tzeng
 - http://blog.gcos.me/
 - http://feeds.feedburner.com/yftzeng
+
+劉逸
+- http://antrash.pixnet.net/blog
+- http://feed.pixnet.net/blog/posts/rss/antrash
