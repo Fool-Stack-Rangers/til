@@ -187,3 +187,7 @@ Manic's Talk
 vgod
 - http://blog.vgod.tw/
 - http://feeds.feedburner.com/vgod/blog
+
+jokercatz
+- http://jokercatz.blogspot.tw/
+- http://jokercatz.blogspot.tw/feeds/posts/default?alt=rss
