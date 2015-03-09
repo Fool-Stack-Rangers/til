@@ -191,3 +191,7 @@ vgod
 jokercatz
 - http://jokercatz.blogspot.tw/
 - http://jokercatz.blogspot.tw/feeds/posts/default?alt=rss
+
+Ant Yi-Feng Tzeng
+- http://blog.gcos.me/
+- http://feeds.feedburner.com/yftzeng
