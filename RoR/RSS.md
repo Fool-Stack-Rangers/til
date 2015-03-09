@@ -78,7 +78,7 @@ Hsin-Hao Tang
 
 小明
 - http://vinn.tw/
-- RSS訂閱從缺，粉絲傷心
+- http://feeds.feedburner.com/Vinntw
 
 Kenneth
 - http://blog.cyanglee.com/
