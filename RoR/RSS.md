@@ -199,3 +199,19 @@ Ant Yi-Feng Tzeng
 劉逸
 - http://antrash.pixnet.net/blog
 - http://feed.pixnet.net/blog/posts/rss/antrash
+
+adamsanderson
+- http://www.monkeyandcrow.com/blog
+- http://feeds.feedburner.com/MonkeyAndCrow
+
+Tommy Chen (曾在Ben Lin的公司上班)
+- http://zespia.tw/
+- http://zespia.tw/atom.xml
+
+施孟甫 (駭客界林志炫)
+- https://medium.com/@rayshih771012/
+- https://medium.com/feed/@rayshih771012/
+
+阮一峰的網絡日誌
+- http://www.ruanyifeng.com/blog
+- http://feeds.feedburner.com/ruanyifeng
