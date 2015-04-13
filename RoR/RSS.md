@@ -215,3 +215,11 @@ Tommy Chen (曾在Ben Lin的公司上班)
 阮一峰的網絡日誌
 - http://www.ruanyifeng.com/blog
 - http://feeds.feedburner.com/ruanyifeng
+
+官方 Ruby
+- https://www.ruby-lang.org/en/news/
+- https://www.ruby-lang.org/en/feeds/news.rss
+
+官方 Rails
+- http://weblog.rubyonrails.org/
+- http://weblog.rubyonrails.org/feed/atom.xml
