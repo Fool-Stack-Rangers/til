@@ -223,3 +223,6 @@ Tommy Chen (曾在Ben Lin的公司上班)
 官方 Rails
 - http://weblog.rubyonrails.org/
 - http://weblog.rubyonrails.org/feed/atom.xml
+
+CHRISLIN
+- http://blog.chrislin.tw/
